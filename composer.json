@@ -1,12 +1,12 @@
 {
-    "name": "predis/predis",
+    "name": "sairuskvk/predis",
     "type": "library",
     "description": "Flexible and feature-complete Redis client for PHP and HHVM",
     "keywords": ["nosql", "redis", "predis"],
     "homepage": "http://github.com/nrk/predis",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/nrk/predis/issues"
+        "issues": "https://github.com/sairuskvk/predis/issues"
     },
     "authors": [
         {
